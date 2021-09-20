@@ -1,0 +1,2 @@
+# web-applicat
+Hybrid apps embed a web site inside a native app, possibly using a hybrid framework. This allows development using web technologies (and possibly directly copying code from an existing mobile web site) while also retaining certain advantages of native apps (e.g. direct access to device hardware, offline operation, app store visibility). Hybrid app frameworks include Apache Cordova, Electron, Flutter, Haxe, React Native and Xamarin
